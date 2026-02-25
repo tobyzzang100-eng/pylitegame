@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.8"
 license = {text = "MIT"}
 authors = [
-    { name = "Your Name" }
+    { name = "꾸뇽" }
 ]
 dependencies = [
     "pygame>=2.0.0"
