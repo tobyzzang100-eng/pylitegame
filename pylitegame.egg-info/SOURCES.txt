@@ -1,0 +1,11 @@
+License
+README.md
+pyproject.toml
+pylitegame/__init__.py
+pylitegame/_init__.py
+pylitegame/core.py
+pylitegame.egg-info/PKG-INFO
+pylitegame.egg-info/SOURCES.txt
+pylitegame.egg-info/dependency_links.txt
+pylitegame.egg-info/requires.txt
+pylitegame.egg-info/top_level.txt
