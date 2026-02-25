@@ -1,4 +1,6 @@
 # pylitegame
+[![PyPI version](https://img.shields.io/pypi/v/pylitegame.svg)](https://pypi.org/project/pylitegame/)
+[![Python](https://img.shields.io/pypi/pyversions/pylitegame.svg)](https://pypi.org/project/pylitegame/)
 
 pylitegame는 pygame을 더 쉽게 사용할 수 있도록 설계된 가벼운 2D 게임 래퍼입니다.  
 pylitegame is a lightweight 2D game wrapper designed to make pygame easier to use.
